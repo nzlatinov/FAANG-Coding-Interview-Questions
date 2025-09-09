@@ -36,7 +36,7 @@
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [x] [Meeting Rooms (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms/)
-- [ ] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
+- [x] [Meeting Rooms II (Leetcode Premium)](https://leetcode.com/problems/meeting-rooms-ii/)
 
 ---
 
